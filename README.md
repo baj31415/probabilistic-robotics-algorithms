@@ -3,10 +3,7 @@
 This repository contains my implementations of key algorithms from the [Probabilistic Robotics](http://robots.stanford.edu/probabilistic-robotics/) book by Thrun et al.
 
 The repository implements the algorithms by using the turtlebot-3 simulation environment for the generating the IMU and Odometry messages.    
-```
-Requirements : Ubuntu 20.04  
-ROS : Noetic
-```
+
 Key algorithms to be implemented:
 
 - [ ] Recursive Bayes Filter
@@ -16,6 +13,10 @@ Key algorithms to be implemented:
 
 ## SETUP
 ---
+```
+Requirements : Ubuntu 20.04  
+ROS : Noetic
+```
 
 ## Installing the Repository
 ```
