@@ -1,0 +1,13 @@
+repositories:
+  teleop_twist_keyboard:
+    type: git
+    url: https://github.com/ros-teleop/teleop_twist_keyboard.git
+    version: master
+  turtlebot3_simulations:
+    type: git
+    url: https://github.com/ROBOTIS-GIT/turtlebot3_simulations.git
+    version: noetic-devel
+  odom_to_trajectory:
+    type: git
+    url: https://github.com/udacity/odom_to_trajectory.git 
+    version: master

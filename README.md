@@ -8,4 +8,7 @@ Key algorithms to be implemented:
 - [ ] Motion Model
 - [ ] Observation Model
 - [ ] Kalman Filter
-- [ ] Partice Filter 
+- [ ] Partice Filter
+
+### SETUP 
+
