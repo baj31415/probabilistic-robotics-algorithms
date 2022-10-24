@@ -31,6 +31,7 @@ $ source devel/setup.bash
 ## Running the Code
 ```
 Run Turtlebot 
+$ export TURTLEBOT3_MODEL=burger
 $ roslaunch turtlebot3_gazebo turtlebot3_world.launch
 
 Run the Tele-Operation Node 
